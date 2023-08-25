@@ -23,6 +23,9 @@ or
 
     yay -S nerd-fonts-mononoki
 
+or 
+    sudo mv /Mononoki /usr/share/fonts/
+
 Afterwards enter the following command to build and install st (if
 necessary as root):
 
